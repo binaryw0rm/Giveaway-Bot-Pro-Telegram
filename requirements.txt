@@ -1,0 +1,7 @@
+python-telegram-bot==20.8
+google-api-python-client==2.147.0
+isodate==0.6.1
+requests==2.32.3
+beautifulsoup4==4.12.3
+python-dotenv==1.0.1
+python==3.11
