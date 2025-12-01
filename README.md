@@ -133,6 +133,21 @@ Bot restarts automatically on crash, server reboot, Python errors, etc.
 ```
 ---
 
+## Screenshots
+
+<p align="center">
+  <table>
+    <tr>
+      <td><img src="https://github.com/binaryw0rm/Giveaway-Bot-Pro-Telegram/blob/main/image1.JPG?raw=true" width="250"></td>
+      <td><img src="https://github.com/binaryw0rm/Giveaway-Bot-Pro-Telegram/blob/main/image2.JPG?raw=true" width="250"></td>
+      <td><img src="https://github.com/binaryw0rm/Giveaway-Bot-Pro-Telegram/blob/main/image3.JPG?raw=true" width="250"></td>
+    </tr>
+  </table>
+</p>
+
+
+---
+
 ## Tips for a massive giveaway
 
 ### First create a 1-hour test giveaway → make sure everything works
